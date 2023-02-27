@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{74175AEA-2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{958E4A64-5D0A-4DF4-8A87-39697B65BCAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeProblemsTests", "LeetcodeProblemsTests\LeetcodeProblemsTests.csproj", "{527E6DAC-A311-43F4-91CC-4508B2D85E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetcodeProblemsTests", "LeetcodeProblemsTests\LeetcodeProblemsTests.csproj", "{527E6DAC-A311-43F4-91CC-4508B2D85E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
