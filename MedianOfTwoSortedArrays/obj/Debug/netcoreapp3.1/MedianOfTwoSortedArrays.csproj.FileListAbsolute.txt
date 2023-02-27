@@ -1,0 +1,13 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.csprojAssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.genruntimeconfig.cache

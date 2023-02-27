@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oskr_\\source\\repos\\LeecodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj": {}
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oskr_\\source\\repos\\LeecodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj": {
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeecodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj",
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj",
         "projectName": "MedianOfTwoSortedArrays",
-        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeecodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj",
         "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeecodeProblems\\MedianOfTwoSortedArrays\\obj\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

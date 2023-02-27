@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.csproj", "{258DFF10-4193-4EEF-9770-DBE0CE26056A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedianOfTwoSortedArrays", "MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.csproj", "{258DFF10-4193-4EEF-9770-DBE0CE26056A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{FA1B9AD9-A056-4DC3-B7E5-9B2C2D79A2F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{74175AEA-2868-437F-A9C1-7ED4818ADF3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{958E4A64-5D0A-4DF4-8A87-39697B65BCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeProblemsTests", "LeetcodeProblemsTests\LeetcodeProblemsTests.csproj", "{527E6DAC-A311-43F4-91CC-4508B2D85E6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +23,18 @@ Global
 		{258DFF10-4193-4EEF-9770-DBE0CE26056A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{258DFF10-4193-4EEF-9770-DBE0CE26056A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{258DFF10-4193-4EEF-9770-DBE0CE26056A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527E6DAC-A311-43F4-91CC-4508B2D85E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527E6DAC-A311-43F4-91CC-4508B2D85E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527E6DAC-A311-43F4-91CC-4508B2D85E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527E6DAC-A311-43F4-91CC-4508B2D85E6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{258DFF10-4193-4EEF-9770-DBE0CE26056A} = {958E4A64-5D0A-4DF4-8A87-39697B65BCAE}
+		{958E4A64-5D0A-4DF4-8A87-39697B65BCAE} = {FA1B9AD9-A056-4DC3-B7E5-9B2C2D79A2F6}
+		{527E6DAC-A311-43F4-91CC-4508B2D85E6C} = {74175AEA-2868-437F-A9C1-7ED4818ADF3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBC4C91F-CDC6-4B8A-B7D4-04703D74685F}
