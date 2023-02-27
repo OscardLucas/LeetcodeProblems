@@ -1,7 +1,3 @@
-C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.csprojAssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.csproj.CoreCompileInputs.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.AssemblyInfoInputs.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.AssemblyInfo.cs
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.exe
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
@@ -93,6 +89,10 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\net
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.csprojAssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.AssemblyInfo.cs
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.csproj.CopyComplete
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.pdb
