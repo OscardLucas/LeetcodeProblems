@@ -1963,6 +1963,16 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "MaximumSubArray/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MaximumSubArray.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MaximumSubArray.dll": {}
+        }
+      },
       "MedianOfTwoSortedArrays/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1971,6 +1981,16 @@
         },
         "runtime": {
           "bin/placeholder/MedianOfTwoSortedArrays.dll": {}
+        }
+      },
+      "NumberOfIslands/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NumberOfIslands.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NumberOfIslands.dll": {}
         }
       }
     }
@@ -6584,16 +6604,28 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "MaximumSubArray/1.0.0": {
+      "type": "project",
+      "path": "../MaximumSubArray/MaximumSubArray.csproj",
+      "msbuildProject": "../MaximumSubArray/MaximumSubArray.csproj"
+    },
     "MedianOfTwoSortedArrays/1.0.0": {
       "type": "project",
       "path": "../MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj",
       "msbuildProject": "../MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj"
+    },
+    "NumberOfIslands/1.0.0": {
+      "type": "project",
+      "path": "../Number of Islands/NumberOfIslands.csproj",
+      "msbuildProject": "../Number of Islands/NumberOfIslands.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MaximumSubArray >= 1.0.0",
       "MedianOfTwoSortedArrays >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
+      "NumberOfIslands >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -6630,8 +6662,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj"
             }
           }
         }

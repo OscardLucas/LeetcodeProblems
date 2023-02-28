@@ -1,0 +1,13 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\bin\Debug\netcoreapp3.1\Number of Islands.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.csprojAssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\Number of Islands\obj\Debug\netcoreapp3.1\Number of Islands.genruntimeconfig.cache

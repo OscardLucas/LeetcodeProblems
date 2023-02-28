@@ -1,0 +1,12 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\bin\Debug\netcoreapp3.1\MaximumSubArray.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\bin\Debug\netcoreapp3.1\MaximumSubArray.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\bin\Debug\netcoreapp3.1\MaximumSubArray.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\bin\Debug\netcoreapp3.1\MaximumSubArray.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\bin\Debug\netcoreapp3.1\MaximumSubArray.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\bin\Debug\netcoreapp3.1\MaximumSubArray.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.genruntimeconfig.cache

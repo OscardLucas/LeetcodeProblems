@@ -97,3 +97,9 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\net
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\MaximumSubArray.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\MaximumSubArray.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\MaximumSubArray.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\NumberOfIslands.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\NumberOfIslands.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\NumberOfIslands.pdb
