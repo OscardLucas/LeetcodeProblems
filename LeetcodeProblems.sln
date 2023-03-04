@@ -13,9 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{958E4A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetcodeProblemsTests", "LeetcodeProblemsTests\LeetcodeProblemsTests.csproj", "{527E6DAC-A311-43F4-91CC-4508B2D85E6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubArray", "MaximumSubArray\MaximumSubArray.csproj", "{3C668BA6-54BF-4908-8165-E4232BC0169E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubArray", "MaximumSubArray\MaximumSubArray.csproj", "{3C668BA6-54BF-4908-8165-E4232BC0169E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfIslands", "Number of Islands\NumberOfIslands.csproj", "{5EAFE682-8AB9-433C-8146-9C3DEAD9D4DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfIslands", "Number of Islands\NumberOfIslands.csproj", "{5EAFE682-8AB9-433C-8146-9C3DEAD9D4DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{03CB5E62-85F2-46CB-A3FB-CE50F5D69B4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5EAFE682-8AB9-433C-8146-9C3DEAD9D4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EAFE682-8AB9-433C-8146-9C3DEAD9D4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EAFE682-8AB9-433C-8146-9C3DEAD9D4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03CB5E62-85F2-46CB-A3FB-CE50F5D69B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CB5E62-85F2-46CB-A3FB-CE50F5D69B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CB5E62-85F2-46CB-A3FB-CE50F5D69B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CB5E62-85F2-46CB-A3FB-CE50F5D69B4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +55,7 @@ Global
 		{527E6DAC-A311-43F4-91CC-4508B2D85E6C} = {74175AEA-2868-437F-A9C1-7ED4818ADF3C}
 		{3C668BA6-54BF-4908-8165-E4232BC0169E} = {958E4A64-5D0A-4DF4-8A87-39697B65BCAE}
 		{5EAFE682-8AB9-433C-8146-9C3DEAD9D4DB} = {958E4A64-5D0A-4DF4-8A87-39697B65BCAE}
+		{03CB5E62-85F2-46CB-A3FB-CE50F5D69B4D} = {958E4A64-5D0A-4DF4-8A87-39697B65BCAE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBC4C91F-CDC6-4B8A-B7D4-04703D74685F}

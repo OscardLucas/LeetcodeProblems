@@ -1963,6 +1963,16 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "ContainerWithMostWater/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ContainerWithMostWater.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContainerWithMostWater.dll": {}
+        }
+      },
       "MaximumSubArray/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -6604,6 +6614,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "ContainerWithMostWater/1.0.0": {
+      "type": "project",
+      "path": "../ContainerWithMostWater/ContainerWithMostWater.csproj",
+      "msbuildProject": "../ContainerWithMostWater/ContainerWithMostWater.csproj"
+    },
     "MaximumSubArray/1.0.0": {
       "type": "project",
       "path": "../MaximumSubArray/MaximumSubArray.csproj",
@@ -6622,6 +6637,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "ContainerWithMostWater >= 1.0.0",
       "MaximumSubArray >= 1.0.0",
       "MedianOfTwoSortedArrays >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
@@ -6662,6 +6678,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj"
             },
