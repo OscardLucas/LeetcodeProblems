@@ -18,6 +18,7 @@
     <ProjectReference Include="..\MaximumSubArray\MaximumSubArray.csproj" />
     <ProjectReference Include="..\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.csproj" />
     <ProjectReference Include="..\Number of Islands\NumberOfIslands.csproj" />
+    <ProjectReference Include="..\WordBreak\WordBreak.csproj" />
   </ItemGroup>
 
 </Project>

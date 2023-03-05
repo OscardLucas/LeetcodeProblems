@@ -106,3 +106,6 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\net
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\ContainerWithMostWater.exe
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\ContainerWithMostWater.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\WordBreak.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\WordBreak.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\WordBreak.pdb
