@@ -103,3 +103,6 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\net
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\NumberOfIslands.exe
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\NumberOfIslands.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\NumberOfIslands.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\WordBreak.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\WordBreak.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\WordBreak.pdb

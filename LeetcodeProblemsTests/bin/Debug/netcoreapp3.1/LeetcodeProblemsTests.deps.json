@@ -12,6 +12,7 @@
           "MedianOfTwoSortedArrays": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.2.0",
           "NumberOfIslands": "1.0.0",
+          "WordBreak": "1.0.0",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
@@ -1359,6 +1360,11 @@
         "runtime": {
           "NumberOfIslands.dll": {}
         }
+      },
+      "WordBreak/1.0.0": {
+        "runtime": {
+          "WordBreak.dll": {}
+        }
       }
     }
   },
@@ -2072,6 +2078,11 @@
       "sha512": ""
     },
     "NumberOfIslands/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordBreak/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

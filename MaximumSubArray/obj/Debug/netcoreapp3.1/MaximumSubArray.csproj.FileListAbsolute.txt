@@ -10,3 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreap
 C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MaximumSubArray\obj\Debug\netcoreapp3.1\MaximumSubArray.csprojAssemblyReference.cache
