@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ContainerWithMostWater\ContainerWithMostWater.csproj" />
+    <ProjectReference Include="..\HouseRobber\HouseRobber.csproj" />
     <ProjectReference Include="..\MaximumSubArray\MaximumSubArray.csproj" />
     <ProjectReference Include="..\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.csproj" />
     <ProjectReference Include="..\Number of Islands\NumberOfIslands.csproj" />
