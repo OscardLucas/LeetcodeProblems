@@ -9,6 +9,7 @@
       "LeetcodeProblemsTests/1.0.0": {
         "dependencies": {
           "ContainerWithMostWater": "1.0.0",
+          "HouseRobber": "1.0.0",
           "MaximumSubArray": "1.0.0",
           "MedianOfTwoSortedArrays": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.2.0",
@@ -1352,6 +1353,11 @@
           "ContainerWithMostWater.dll": {}
         }
       },
+      "HouseRobber/1.0.0": {
+        "runtime": {
+          "HouseRobber.dll": {}
+        }
+      },
       "MaximumSubArray/1.0.0": {
         "runtime": {
           "MaximumSubArray.dll": {}
@@ -2074,6 +2080,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
     "ContainerWithMostWater/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HouseRobber/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

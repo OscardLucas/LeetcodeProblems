@@ -1973,6 +1973,16 @@
           "bin/placeholder/ContainerWithMostWater.dll": {}
         }
       },
+      "HouseRobber/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/HouseRobber.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRobber.dll": {}
+        }
+      },
       "MaximumSubArray/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -6629,6 +6639,11 @@
       "path": "../ContainerWithMostWater/ContainerWithMostWater.csproj",
       "msbuildProject": "../ContainerWithMostWater/ContainerWithMostWater.csproj"
     },
+    "HouseRobber/1.0.0": {
+      "type": "project",
+      "path": "../HouseRobber/HouseRobber.csproj",
+      "msbuildProject": "../HouseRobber/HouseRobber.csproj"
+    },
     "MaximumSubArray/1.0.0": {
       "type": "project",
       "path": "../MaximumSubArray/MaximumSubArray.csproj",
@@ -6653,6 +6668,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "ContainerWithMostWater >= 1.0.0",
+      "HouseRobber >= 1.0.0",
       "MaximumSubArray >= 1.0.0",
       "MedianOfTwoSortedArrays >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
@@ -6696,6 +6712,9 @@
           "projectReferences": {
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj"
