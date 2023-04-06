@@ -112,3 +112,6 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\net
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\HouseRobber.exe
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\HouseRobber.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\HouseRobber.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\UniquePaths.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\UniquePaths.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\UniquePaths.pdb
