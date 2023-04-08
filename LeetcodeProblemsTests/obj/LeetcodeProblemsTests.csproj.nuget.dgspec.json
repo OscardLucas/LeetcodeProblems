@@ -4,6 +4,118 @@
     "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\LeetcodeProblemsTests\\LeetcodeProblemsTests.csproj": {}
   },
   "projects": {
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj",
+        "projectName": "BestTimeToBuyAndSellStock",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj",
+        "projectName": "BinarySearch",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +124,62 @@
         "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj",
         "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj",
+        "projectName": "FloodFill",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,6 +284,62 @@
         }
       }
     },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj",
+        "projectName": "InvertBinaryTree",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\LeetcodeProblemsTests\\LeetcodeProblemsTests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -143,11 +367,23 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj"
+              },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj"
+              },
               "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
                 "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj"
               },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj"
+              },
               "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj": {
                 "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj"
+              },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj"
               },
               "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj": {
                 "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj"
@@ -155,11 +391,26 @@
               "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj": {
                 "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj"
               },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj"
+              },
               "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj": {
                 "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj"
               },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj"
+              },
               "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\UniquePaths\\UniquePaths.csproj": {
                 "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\UniquePaths\\UniquePaths.csproj"
+              },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj"
+              },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj"
+              },
+              "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj": {
+                "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj"
               },
               "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\WordBreak\\WordBreak.csproj": {
                 "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\WordBreak\\WordBreak.csproj"
@@ -324,6 +575,62 @@
         }
       }
     },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj",
+        "projectName": "MergeTwoSortedList",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -380,6 +687,62 @@
         }
       }
     },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj",
+        "projectName": "TwoSum",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\UniquePaths\\UniquePaths.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -388,6 +751,174 @@
         "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\UniquePaths\\UniquePaths.csproj",
         "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\UniquePaths\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj",
+        "projectName": "ValidAnagram",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj",
+        "projectName": "ValidPalindrome",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oskr_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj",
+        "projectName": "ValidParentheses",
+        "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj",
+        "packagesPath": "C:\\Users\\oskr_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,13 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\bin\Debug\netcoreapp3.1\ValidAnagram.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\bin\Debug\netcoreapp3.1\ValidAnagram.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\bin\Debug\netcoreapp3.1\ValidAnagram.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\bin\Debug\netcoreapp3.1\ValidAnagram.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\bin\Debug\netcoreapp3.1\ValidAnagram.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\bin\Debug\netcoreapp3.1\ValidAnagram.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.csprojAssemblyReference.cache

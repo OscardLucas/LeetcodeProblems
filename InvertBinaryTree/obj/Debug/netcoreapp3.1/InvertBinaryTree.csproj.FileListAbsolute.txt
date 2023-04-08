@@ -1,0 +1,12 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\bin\Debug\netcoreapp3.1\InvertBinaryTree.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\bin\Debug\netcoreapp3.1\InvertBinaryTree.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\bin\Debug\netcoreapp3.1\InvertBinaryTree.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\bin\Debug\netcoreapp3.1\InvertBinaryTree.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\bin\Debug\netcoreapp3.1\InvertBinaryTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\bin\Debug\netcoreapp3.1\InvertBinaryTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.genruntimeconfig.cache

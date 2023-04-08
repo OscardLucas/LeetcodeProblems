@@ -1,0 +1,13 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\bin\Debug\netcoreapp3.1\ValidPalindrome.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.csprojAssemblyReference.cache
