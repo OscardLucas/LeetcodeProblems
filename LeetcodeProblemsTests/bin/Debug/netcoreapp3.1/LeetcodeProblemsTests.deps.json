@@ -8,13 +8,22 @@
     ".NETCoreApp,Version=v3.1": {
       "LeetcodeProblemsTests/1.0.0": {
         "dependencies": {
+          "BestTimeToBuyAndSellStock": "1.0.0",
+          "BinarySearch": "1.0.0",
           "ContainerWithMostWater": "1.0.0",
+          "FloodFill": "1.0.0",
           "HouseRobber": "1.0.0",
+          "InvertBinaryTree": "1.0.0",
           "MaximumSubArray": "1.0.0",
           "MedianOfTwoSortedArrays": "1.0.0",
+          "MergeTwoSortedList": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.2.0",
           "NumberOfIslands": "1.0.0",
+          "TwoSum": "1.0.0",
           "UniquePaths": "1.0.0",
+          "ValidAnagram": "1.0.0",
+          "ValidPalindrome": "1.0.0",
+          "ValidParentheses": "1.0.0",
           "WordBreak": "1.0.0",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.0",
@@ -1349,14 +1358,34 @@
           "Microsoft.NET.Test.Sdk": "16.2.0"
         }
       },
+      "BestTimeToBuyAndSellStock/1.0.0": {
+        "runtime": {
+          "BestTimeToBuyAndSellStock.dll": {}
+        }
+      },
+      "BinarySearch/1.0.0": {
+        "runtime": {
+          "BinarySearch.dll": {}
+        }
+      },
       "ContainerWithMostWater/1.0.0": {
         "runtime": {
           "ContainerWithMostWater.dll": {}
         }
       },
+      "FloodFill/1.0.0": {
+        "runtime": {
+          "FloodFill.dll": {}
+        }
+      },
       "HouseRobber/1.0.0": {
         "runtime": {
           "HouseRobber.dll": {}
+        }
+      },
+      "InvertBinaryTree/1.0.0": {
+        "runtime": {
+          "InvertBinaryTree.dll": {}
         }
       },
       "MaximumSubArray/1.0.0": {
@@ -1369,14 +1398,39 @@
           "MedianOfTwoSortedArrays.dll": {}
         }
       },
+      "MergeTwoSortedList/1.0.0": {
+        "runtime": {
+          "MergeTwoSortedList.dll": {}
+        }
+      },
       "NumberOfIslands/1.0.0": {
         "runtime": {
           "NumberOfIslands.dll": {}
         }
       },
+      "TwoSum/1.0.0": {
+        "runtime": {
+          "TwoSum.dll": {}
+        }
+      },
       "UniquePaths/1.0.0": {
         "runtime": {
           "UniquePaths.dll": {}
+        }
+      },
+      "ValidAnagram/1.0.0": {
+        "runtime": {
+          "ValidAnagram.dll": {}
+        }
+      },
+      "ValidPalindrome/1.0.0": {
+        "runtime": {
+          "ValidPalindrome.dll": {}
+        }
+      },
+      "ValidParentheses/1.0.0": {
+        "runtime": {
+          "ValidParentheses.dll": {}
         }
       },
       "WordBreak/1.0.0": {
@@ -2085,12 +2139,32 @@
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
+    "BestTimeToBuyAndSellStock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinarySearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "ContainerWithMostWater/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "FloodFill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "HouseRobber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InvertBinaryTree/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -2105,12 +2179,37 @@
       "serviceable": false,
       "sha512": ""
     },
+    "MergeTwoSortedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "NumberOfIslands/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "TwoSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "UniquePaths/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValidAnagram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValidPalindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ValidParentheses/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

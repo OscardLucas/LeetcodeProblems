@@ -1,0 +1,13 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\bin\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csprojAssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.genruntimeconfig.cache

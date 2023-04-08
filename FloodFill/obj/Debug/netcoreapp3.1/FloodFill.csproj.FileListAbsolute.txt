@@ -1,0 +1,13 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\bin\Debug\netcoreapp3.1\FloodFill.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.csprojAssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\FloodFill\obj\Debug\netcoreapp3.1\FloodFill.genruntimeconfig.cache

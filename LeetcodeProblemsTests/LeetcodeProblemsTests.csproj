@@ -14,12 +14,21 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj" />
+    <ProjectReference Include="..\BinarySearch\BinarySearch.csproj" />
     <ProjectReference Include="..\ContainerWithMostWater\ContainerWithMostWater.csproj" />
+    <ProjectReference Include="..\FloodFill\FloodFill.csproj" />
     <ProjectReference Include="..\HouseRobber\HouseRobber.csproj" />
+    <ProjectReference Include="..\InvertBinaryTree\InvertBinaryTree.csproj" />
     <ProjectReference Include="..\MaximumSubArray\MaximumSubArray.csproj" />
     <ProjectReference Include="..\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays.csproj" />
+    <ProjectReference Include="..\MergeTwoSortedList\MergeTwoSortedList.csproj" />
     <ProjectReference Include="..\Number of Islands\NumberOfIslands.csproj" />
+    <ProjectReference Include="..\TwoSum\TwoSum.csproj" />
     <ProjectReference Include="..\UniquePaths\UniquePaths.csproj" />
+    <ProjectReference Include="..\ValidAnagram\ValidAnagram.csproj" />
+    <ProjectReference Include="..\ValidPalindrome\ValidPalindrome.csproj" />
+    <ProjectReference Include="..\ValidParentheses\ValidParentheses.csproj" />
     <ProjectReference Include="..\WordBreak\WordBreak.csproj" />
   </ItemGroup>
 

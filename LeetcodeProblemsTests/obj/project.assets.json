@@ -1963,6 +1963,26 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "BestTimeToBuyAndSellStock/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BestTimeToBuyAndSellStock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BestTimeToBuyAndSellStock.dll": {}
+        }
+      },
+      "BinarySearch/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BinarySearch.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearch.dll": {}
+        }
+      },
       "ContainerWithMostWater/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1973,6 +1993,16 @@
           "bin/placeholder/ContainerWithMostWater.dll": {}
         }
       },
+      "FloodFill/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/FloodFill.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FloodFill.dll": {}
+        }
+      },
       "HouseRobber/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1981,6 +2011,16 @@
         },
         "runtime": {
           "bin/placeholder/HouseRobber.dll": {}
+        }
+      },
+      "InvertBinaryTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InvertBinaryTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InvertBinaryTree.dll": {}
         }
       },
       "MaximumSubArray/1.0.0": {
@@ -2003,6 +2043,16 @@
           "bin/placeholder/MedianOfTwoSortedArrays.dll": {}
         }
       },
+      "MergeTwoSortedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MergeTwoSortedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MergeTwoSortedList.dll": {}
+        }
+      },
       "NumberOfIslands/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2013,6 +2063,16 @@
           "bin/placeholder/NumberOfIslands.dll": {}
         }
       },
+      "TwoSum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TwoSum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TwoSum.dll": {}
+        }
+      },
       "UniquePaths/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2021,6 +2081,36 @@
         },
         "runtime": {
           "bin/placeholder/UniquePaths.dll": {}
+        }
+      },
+      "ValidAnagram/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ValidAnagram.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValidAnagram.dll": {}
+        }
+      },
+      "ValidPalindrome/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ValidPalindrome.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValidPalindrome.dll": {}
+        }
+      },
+      "ValidParentheses/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ValidParentheses.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ValidParentheses.dll": {}
         }
       },
       "WordBreak/1.0.0": {
@@ -6644,15 +6734,35 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "BestTimeToBuyAndSellStock/1.0.0": {
+      "type": "project",
+      "path": "../BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.csproj",
+      "msbuildProject": "../BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.csproj"
+    },
+    "BinarySearch/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearch/BinarySearch.csproj",
+      "msbuildProject": "../BinarySearch/BinarySearch.csproj"
+    },
     "ContainerWithMostWater/1.0.0": {
       "type": "project",
       "path": "../ContainerWithMostWater/ContainerWithMostWater.csproj",
       "msbuildProject": "../ContainerWithMostWater/ContainerWithMostWater.csproj"
     },
+    "FloodFill/1.0.0": {
+      "type": "project",
+      "path": "../FloodFill/FloodFill.csproj",
+      "msbuildProject": "../FloodFill/FloodFill.csproj"
+    },
     "HouseRobber/1.0.0": {
       "type": "project",
       "path": "../HouseRobber/HouseRobber.csproj",
       "msbuildProject": "../HouseRobber/HouseRobber.csproj"
+    },
+    "InvertBinaryTree/1.0.0": {
+      "type": "project",
+      "path": "../InvertBinaryTree/InvertBinaryTree.csproj",
+      "msbuildProject": "../InvertBinaryTree/InvertBinaryTree.csproj"
     },
     "MaximumSubArray/1.0.0": {
       "type": "project",
@@ -6664,15 +6774,40 @@
       "path": "../MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj",
       "msbuildProject": "../MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.csproj"
     },
+    "MergeTwoSortedList/1.0.0": {
+      "type": "project",
+      "path": "../MergeTwoSortedList/MergeTwoSortedList.csproj",
+      "msbuildProject": "../MergeTwoSortedList/MergeTwoSortedList.csproj"
+    },
     "NumberOfIslands/1.0.0": {
       "type": "project",
       "path": "../Number of Islands/NumberOfIslands.csproj",
       "msbuildProject": "../Number of Islands/NumberOfIslands.csproj"
     },
+    "TwoSum/1.0.0": {
+      "type": "project",
+      "path": "../TwoSum/TwoSum.csproj",
+      "msbuildProject": "../TwoSum/TwoSum.csproj"
+    },
     "UniquePaths/1.0.0": {
       "type": "project",
       "path": "../UniquePaths/UniquePaths.csproj",
       "msbuildProject": "../UniquePaths/UniquePaths.csproj"
+    },
+    "ValidAnagram/1.0.0": {
+      "type": "project",
+      "path": "../ValidAnagram/ValidAnagram.csproj",
+      "msbuildProject": "../ValidAnagram/ValidAnagram.csproj"
+    },
+    "ValidPalindrome/1.0.0": {
+      "type": "project",
+      "path": "../ValidPalindrome/ValidPalindrome.csproj",
+      "msbuildProject": "../ValidPalindrome/ValidPalindrome.csproj"
+    },
+    "ValidParentheses/1.0.0": {
+      "type": "project",
+      "path": "../ValidParentheses/ValidParentheses.csproj",
+      "msbuildProject": "../ValidParentheses/ValidParentheses.csproj"
     },
     "WordBreak/1.0.0": {
       "type": "project",
@@ -6682,13 +6817,22 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BestTimeToBuyAndSellStock >= 1.0.0",
+      "BinarySearch >= 1.0.0",
       "ContainerWithMostWater >= 1.0.0",
+      "FloodFill >= 1.0.0",
       "HouseRobber >= 1.0.0",
+      "InvertBinaryTree >= 1.0.0",
       "MaximumSubArray >= 1.0.0",
       "MedianOfTwoSortedArrays >= 1.0.0",
+      "MergeTwoSortedList >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "NumberOfIslands >= 1.0.0",
+      "TwoSum >= 1.0.0",
       "UniquePaths >= 1.0.0",
+      "ValidAnagram >= 1.0.0",
+      "ValidPalindrome >= 1.0.0",
+      "ValidParentheses >= 1.0.0",
       "WordBreak >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
@@ -6726,11 +6870,23 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj"
             },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj"
@@ -6738,11 +6894,26 @@
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj"
             },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj"
             },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\UniquePaths\\UniquePaths.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\UniquePaths\\UniquePaths.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\WordBreak\\WordBreak.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\WordBreak\\WordBreak.csproj"
