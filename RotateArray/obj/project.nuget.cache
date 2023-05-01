@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfreupgIJ4k8nhSOIz+klIbs4rh3F9ZQw3UEjPpgW0tjHwjbrpMOEt0l8dYp8S6qb7UJmJwPpS/uEpYqWkgkLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\RotateArray\\RotateArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

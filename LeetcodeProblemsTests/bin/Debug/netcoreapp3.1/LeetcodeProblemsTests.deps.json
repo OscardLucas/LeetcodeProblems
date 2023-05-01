@@ -24,8 +24,10 @@
           "Microsoft.NET.Test.Sdk": "16.2.0",
           "MinimumSizeSubarraySum": "1.0.0",
           "NumberOfIslands": "1.0.0",
+          "PascalsTriangle2": "1.0.0",
           "RansomNote": "1.0.0",
           "ReverseLinkedList": "1.0.0",
+          "RotateArray": "1.0.0",
           "TwoSum": "1.0.0",
           "UniquePaths": "1.0.0",
           "ValidAnagram": "1.0.0",
@@ -1440,6 +1442,11 @@
           "NumberOfIslands.dll": {}
         }
       },
+      "PascalsTriangle2/1.0.0": {
+        "runtime": {
+          "PascalsTriangle2.dll": {}
+        }
+      },
       "RansomNote/1.0.0": {
         "runtime": {
           "RansomNote.dll": {}
@@ -1448,6 +1455,11 @@
       "ReverseLinkedList/1.0.0": {
         "runtime": {
           "ReverseLinkedList.dll": {}
+        }
+      },
+      "RotateArray/1.0.0": {
+        "runtime": {
+          "RotateArray.dll": {}
         }
       },
       "TwoSum/1.0.0": {
@@ -2256,12 +2268,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "PascalsTriangle2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "RansomNote/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "ReverseLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RotateArray/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
