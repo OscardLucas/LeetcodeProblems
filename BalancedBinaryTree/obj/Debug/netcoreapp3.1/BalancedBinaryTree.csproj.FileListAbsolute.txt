@@ -10,3 +10,5 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\BalancedBinaryTree\obj\Debug\netcor
 C:\Users\oskr_\source\repos\LeetcodeProblems\BalancedBinaryTree\obj\Debug\netcoreapp3.1\BalancedBinaryTree.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\BalancedBinaryTree\obj\Debug\netcoreapp3.1\BalancedBinaryTree.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\BalancedBinaryTree\obj\Debug\netcoreapp3.1\BalancedBinaryTree.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\BalancedBinaryTree\obj\Debug\netcoreapp3.1\BalancedBinaryTree.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\BalancedBinaryTree\obj\Debug\netcoreapp3.1\BalancedBinaryTree.GeneratedMSBuildEditorConfig.editorconfig

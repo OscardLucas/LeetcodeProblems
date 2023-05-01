@@ -1,0 +1,14 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\bin\Debug\netcoreapp3.1\PascalsTriangle2.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\bin\Debug\netcoreapp3.1\PascalsTriangle2.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\bin\Debug\netcoreapp3.1\PascalsTriangle2.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\bin\Debug\netcoreapp3.1\PascalsTriangle2.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\bin\Debug\netcoreapp3.1\PascalsTriangle2.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\bin\Debug\netcoreapp3.1\PascalsTriangle2.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\Pascals Triangle 2\obj\Debug\netcoreapp3.1\PascalsTriangle2.genruntimeconfig.cache

@@ -233,3 +233,15 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\net
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\WordBreak.runtimeconfig.dev.json
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.csproj.AssemblyReference.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\obj\Debug\netcoreapp3.1\LeetcodeProblemsTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\RotateArray.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\RotateArray.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\RotateArray.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\RotateArray.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\RotateArray.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\RotateArray.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\PascalsTriangle2.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\PascalsTriangle2.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\PascalsTriangle2.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\PascalsTriangle2.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\PascalsTriangle2.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LeetcodeProblemsTests\bin\Debug\netcoreapp3.1\PascalsTriangle2.pdb

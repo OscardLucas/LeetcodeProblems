@@ -10,3 +10,5 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreap
 C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.GeneratedMSBuildEditorConfig.editorconfig
