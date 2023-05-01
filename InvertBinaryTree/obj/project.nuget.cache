@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EQkI/5NQzowvSzUrVxNao9iLk06ZjNZJ6A8ha4soHeEPiclahe82KIzohmwBgGzZRn9ObEA62matqNNZUDPmzg==",
+  "dgSpecHash": "3dra80VBMLg3LTLr2r4YoU+iKqJ6S2wP7KIv2uH35LeR1mj29gB1Ucbos29Ybdl3LZrhFe7qF1zM4GjXOmqL7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

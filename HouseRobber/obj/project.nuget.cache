@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CViR8KLZqDkThvAD0835AK2VJIc1zGXfjdv8/aRIg7+NbjRVg3gJ6fZPH2Vg/PmAyC7rlSHgYafxQQCJ9wUCvg==",
+  "dgSpecHash": "2gXTP3ANsX/oWbf0dz4NuEGm1Lw4C7EmCHRUlhh0chw8EHr9wLj2XfiWUCLTKnoZT/3/mv9Qm1t8jmwL2NB1hA==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

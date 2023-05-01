@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UDri4jOvRCn4VCVRIVkzKZZvdbvVdReDaC2uFLkddvV/TmyunjRz2TZLh9uNOgWZKKSesXvgAnsJHtfOmEVsjA==",
+  "dgSpecHash": "TpbmsrIsCpnGzV2J72LXZtK0W+rMHWYxCHRx1Ket21D/3ADL4/tKs4wDe7ehDG6AdQI6GGNoKDvwqRp0HDo0vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

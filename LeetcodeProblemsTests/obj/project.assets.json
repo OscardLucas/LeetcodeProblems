@@ -42,7 +42,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.0/Microsoft.CSharp.dll": {}
+          "ref/netstandard1.0/Microsoft.CSharp.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.CSharp.dll": {}
@@ -200,14 +202,18 @@
           "lib/netstandard1.5/Microsoft.TestPlatform.CrossPlatEngine.dll": {},
           "lib/netstandard1.5/Microsoft.TestPlatform.Utilities.dll": {},
           "lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.Common.dll": {},
-          "lib/netstandard1.5/testhost.dll": {}
+          "lib/netstandard1.5/testhost.dll": {
+            "related": ".deps.json"
+          }
         },
         "runtime": {
           "lib/netstandard1.5/Microsoft.TestPlatform.CommunicationUtilities.dll": {},
           "lib/netstandard1.5/Microsoft.TestPlatform.CrossPlatEngine.dll": {},
           "lib/netstandard1.5/Microsoft.TestPlatform.Utilities.dll": {},
           "lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.Common.dll": {},
-          "lib/netstandard1.5/testhost.dll": {}
+          "lib/netstandard1.5/testhost.dll": {
+            "related": ".deps.json"
+          }
         },
         "resource": {
           "lib/netstandard1.5/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll": {
@@ -337,7 +343,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
+          "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Win32.Registry/4.0.0": {
@@ -353,7 +361,9 @@
           "System.Runtime.InteropServices": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/Microsoft.Win32.Registry.dll": {
@@ -442,10 +452,14 @@
           "System.Xml.XDocument": "4.0.11"
         },
         "compile": {
-          "lib/netstandard1.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard1.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard1.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard1.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "runtime.native.System/4.0.0": {
@@ -506,7 +520,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.6/System.AppContext.dll": {}
+          "ref/netstandard1.6/System.AppContext.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.6/System.AppContext.dll": {}
@@ -536,7 +552,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Collections.dll": {}
+          "ref/netstandard1.3/System.Collections.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Collections.Concurrent/4.0.12": {
@@ -554,7 +572,9 @@
           "System.Threading.Tasks": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Collections.Concurrent.dll": {}
+          "ref/netstandard1.3/System.Collections.Concurrent.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.Concurrent.dll": {}
@@ -573,10 +593,14 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "lib/netstandard1.0/System.Collections.Immutable.dll": {}
+          "lib/netstandard1.0/System.Collections.Immutable.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard1.0/System.Collections.Immutable.dll": {}
+          "lib/netstandard1.0/System.Collections.Immutable.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Collections.NonGeneric/4.0.1": {
@@ -590,7 +614,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Collections.NonGeneric.dll": {}
+          "ref/netstandard1.3/System.Collections.NonGeneric.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
@@ -608,7 +634,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Collections.Specialized.dll": {}
@@ -620,7 +648,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.ComponentModel.dll": {}
+          "ref/netstandard1.0/System.ComponentModel.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.ComponentModel.dll": {}
@@ -635,7 +665,9 @@
           "System.Threading.Tasks": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.ComponentModel.EventBasedAsync.dll": {}
+          "ref/netstandard1.3/System.ComponentModel.EventBasedAsync.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.ComponentModel.EventBasedAsync.dll": {}
@@ -649,7 +681,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.ComponentModel.Primitives.dll": {}
+          "ref/netstandard1.0/System.ComponentModel.Primitives.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.0/System.ComponentModel.Primitives.dll": {}
@@ -675,7 +709,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
+          "ref/netstandard1.5/System.ComponentModel.TypeConverter.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.5/System.ComponentModel.TypeConverter.dll": {}
@@ -691,7 +727,9 @@
           "System.Text.Encoding": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Console.dll": {}
+          "ref/netstandard1.3/System.Console.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.Debug/4.0.11": {
@@ -702,7 +740,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Diagnostics.Debug.dll": {}
+          "ref/netstandard1.3/System.Diagnostics.Debug.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.DiagnosticSource/4.0.0": {
@@ -715,10 +755,14 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "lib/netstandard1.3/_._": {}
+          "lib/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.Process/4.1.0": {
@@ -747,7 +791,9 @@
           "runtime.native.System": "4.0.0"
         },
         "compile": {
-          "ref/netstandard1.4/System.Diagnostics.Process.dll": {}
+          "ref/netstandard1.4/System.Diagnostics.Process.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/linux/lib/netstandard1.4/System.Diagnostics.Process.dll": {
@@ -775,7 +821,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Diagnostics.TextWriterTraceListener.dll": {}
+          "ref/netstandard1.3/System.Diagnostics.TextWriterTraceListener.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Diagnostics.TextWriterTraceListener.dll": {}
@@ -789,7 +837,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Diagnostics.Tools.dll": {}
+          "ref/netstandard1.0/System.Diagnostics.Tools.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.TraceSource/4.0.0": {
@@ -806,7 +856,9 @@
           "runtime.native.System": "4.0.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Diagnostics.TraceSource.dll": {}
+          "ref/netstandard1.3/System.Diagnostics.TraceSource.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Diagnostics.TraceSource.dll": {
@@ -827,7 +879,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Diagnostics.Tracing.dll": {}
+          "ref/netstandard1.5/System.Diagnostics.Tracing.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Dynamic.Runtime/4.0.11": {
@@ -850,7 +904,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Dynamic.Runtime.dll": {}
+          "ref/netstandard1.3/System.Dynamic.Runtime.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Dynamic.Runtime.dll": {}
@@ -864,7 +920,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Globalization.dll": {}
+          "ref/netstandard1.3/System.Globalization.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Globalization.Calendars/4.0.1": {
@@ -876,7 +934,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Globalization.Calendars.dll": {}
+          "ref/netstandard1.3/System.Globalization.Calendars.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Globalization.Extensions/4.0.1": {
@@ -890,7 +950,9 @@
           "System.Runtime.InteropServices": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Globalization.Extensions.dll": {
@@ -913,7 +975,9 @@
           "System.Threading.Tasks": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.5/System.IO.dll": {}
+          "ref/netstandard1.5/System.IO.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.IO.Compression/4.1.0": {
@@ -935,7 +999,9 @@
           "runtime.native.System.IO.Compression": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.IO.Compression.dll": {}
+          "ref/netstandard1.3/System.IO.Compression.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.IO.Compression.dll": {
@@ -962,7 +1028,9 @@
           "System.Text.Encoding": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.IO.Compression.ZipFile.dll": {}
+          "ref/netstandard1.3/System.IO.Compression.ZipFile.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.IO.Compression.ZipFile.dll": {}
@@ -981,7 +1049,9 @@
           "System.Threading.Tasks": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.IO.FileSystem.dll": {}
+          "ref/netstandard1.3/System.IO.FileSystem.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.IO.FileSystem.Primitives/4.0.1": {
@@ -990,7 +1060,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
+          "ref/netstandard1.3/System.IO.FileSystem.Primitives.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.IO.FileSystem.Primitives.dll": {}
@@ -1006,7 +1078,9 @@
           "System.Runtime.Extensions": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.6/System.Linq.dll": {}
+          "ref/netstandard1.6/System.Linq.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.dll": {}
@@ -1034,7 +1108,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.6/System.Linq.Expressions.dll": {}
+          "ref/netstandard1.6/System.Linq.Expressions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.Expressions.dll": {}
@@ -1071,7 +1147,9 @@
           "runtime.native.System.Security.Cryptography": "4.0.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Net.Http.dll": {}
+          "ref/netstandard1.3/System.Net.Http.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.6/System.Net.Http.dll": {
@@ -1093,7 +1171,9 @@
           "System.Runtime.Handles": "4.0.1"
         },
         "compile": {
-          "ref/netstandard1.3/System.Net.Primitives.dll": {}
+          "ref/netstandard1.3/System.Net.Primitives.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Net.Sockets/4.1.0": {
@@ -1107,7 +1187,9 @@
           "System.Threading.Tasks": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Net.Sockets.dll": {}
+          "ref/netstandard1.3/System.Net.Sockets.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.ObjectModel/4.0.12": {
@@ -1120,7 +1202,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.ObjectModel.dll": {}
+          "ref/netstandard1.3/System.ObjectModel.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.ObjectModel.dll": {}
@@ -1171,7 +1255,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Reflection.dll": {}
+          "ref/netstandard1.5/System.Reflection.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Emit/4.0.1": {
@@ -1184,7 +1270,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.1/_._": {}
+          "ref/netstandard1.1/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.dll": {}
@@ -1198,7 +1286,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.ILGeneration.dll": {}
@@ -1213,7 +1303,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/_._": {}
+          "ref/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Reflection.Emit.Lightweight.dll": {}
@@ -1228,7 +1320,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Reflection.Extensions.dll": {}
+          "ref/netstandard1.0/System.Reflection.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Metadata/1.3.0": {
@@ -1251,10 +1345,14 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "lib/netstandard1.1/System.Reflection.Metadata.dll": {}
+          "lib/netstandard1.1/System.Reflection.Metadata.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard1.1/System.Reflection.Metadata.dll": {}
+          "lib/netstandard1.1/System.Reflection.Metadata.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.Primitives/4.0.1": {
@@ -1265,7 +1363,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Reflection.Primitives.dll": {}
+          "ref/netstandard1.0/System.Reflection.Primitives.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Reflection.TypeExtensions/4.1.0": {
@@ -1275,7 +1375,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Reflection.TypeExtensions.dll": {}
+          "ref/netstandard1.5/System.Reflection.TypeExtensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.5/System.Reflection.TypeExtensions.dll": {}
@@ -1291,7 +1393,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Resources.ResourceManager.dll": {}
+          "ref/netstandard1.0/System.Resources.ResourceManager.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime/4.1.0": {
@@ -1301,7 +1405,9 @@
           "Microsoft.NETCore.Targets": "1.0.1"
         },
         "compile": {
-          "ref/netstandard1.5/System.Runtime.dll": {}
+          "ref/netstandard1.5/System.Runtime.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.Extensions/4.1.0": {
@@ -1312,7 +1418,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Runtime.Extensions.dll": {}
+          "ref/netstandard1.5/System.Runtime.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.Handles/4.0.1": {
@@ -1323,7 +1431,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Runtime.Handles.dll": {}
+          "ref/netstandard1.3/System.Runtime.Handles.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.InteropServices/4.1.0": {
@@ -1337,7 +1447,9 @@
           "System.Runtime.Handles": "4.0.1"
         },
         "compile": {
-          "ref/netstandard1.5/System.Runtime.InteropServices.dll": {}
+          "ref/netstandard1.5/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Runtime.InteropServices.RuntimeInformation/4.0.0": {
@@ -1373,7 +1485,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.5/System.Runtime.Loader.dll": {}
+          "ref/netstandard1.5/System.Runtime.Loader.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.5/System.Runtime.Loader.dll": {}
@@ -1388,7 +1502,9 @@
           "System.Runtime.Extensions": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.1/System.Runtime.Numerics.dll": {}
+          "ref/netstandard1.1/System.Runtime.Numerics.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Runtime.Numerics.dll": {}
@@ -1402,7 +1518,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.0/System.Runtime.Serialization.Json.dll": {}
+          "ref/netstandard1.0/System.Runtime.Serialization.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Runtime.Serialization.Json.dll": {}
@@ -1415,7 +1533,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+          "ref/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
@@ -1529,7 +1649,9 @@
           "runtime.native.System.Security.Cryptography": "4.0.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Security.Cryptography.Encoding.dll": {}
+          "ref/netstandard1.3/System.Security.Cryptography.Encoding.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Encoding.dll": {
@@ -1620,7 +1742,9 @@
           "runtime.native.System.Security.Cryptography": "4.0.0"
         },
         "compile": {
-          "ref/netstandard1.4/System.Security.Cryptography.X509Certificates.dll": {}
+          "ref/netstandard1.4/System.Security.Cryptography.X509Certificates.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll": {
@@ -1641,7 +1765,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Text.Encoding.dll": {}
+          "ref/netstandard1.3/System.Text.Encoding.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Text.Encoding.Extensions/4.0.11": {
@@ -1653,7 +1779,9 @@
           "System.Text.Encoding": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Text.Encoding.Extensions.dll": {}
+          "ref/netstandard1.3/System.Text.Encoding.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Text.RegularExpressions/4.1.0": {
@@ -1667,7 +1795,9 @@
           "System.Threading": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.6/System.Text.RegularExpressions.dll": {}
+          "ref/netstandard1.6/System.Text.RegularExpressions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.6/System.Text.RegularExpressions.dll": {}
@@ -1680,7 +1810,9 @@
           "System.Threading.Tasks": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Threading.dll": {}
+          "ref/netstandard1.3/System.Threading.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.dll": {}
@@ -1694,7 +1826,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Threading.Tasks.dll": {}
+          "ref/netstandard1.3/System.Threading.Tasks.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading.Tasks.Extensions/4.0.0": {
@@ -1705,10 +1839,14 @@
           "System.Threading.Tasks": "4.0.11"
         },
         "compile": {
-          "lib/netstandard1.0/_._": {}
+          "lib/netstandard1.0/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {}
+          "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Threading.Thread/4.0.0": {
@@ -1717,7 +1855,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Threading.Thread.dll": {}
+          "ref/netstandard1.3/System.Threading.Thread.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.Thread.dll": {}
@@ -1730,7 +1870,9 @@
           "System.Runtime.Handles": "4.0.1"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.ThreadPool.dll": {}
@@ -1744,7 +1886,9 @@
           "System.Runtime": "4.1.0"
         },
         "compile": {
-          "ref/netstandard1.2/System.Threading.Timer.dll": {}
+          "ref/netstandard1.2/System.Threading.Timer.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Xml.ReaderWriter/4.0.11": {
@@ -1767,7 +1911,9 @@
           "System.Threading.Tasks.Extensions": "4.0.0"
         },
         "compile": {
-          "ref/netstandard1.3/System.Xml.ReaderWriter.dll": {}
+          "ref/netstandard1.3/System.Xml.ReaderWriter.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.ReaderWriter.dll": {}
@@ -1790,7 +1936,9 @@
           "System.Xml.ReaderWriter": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Xml.XDocument.dll": {}
+          "ref/netstandard1.3/System.Xml.XDocument.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
@@ -1811,7 +1959,9 @@
           "System.Xml.ReaderWriter": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Xml.XmlDocument.dll": {}
+          "ref/netstandard1.3/System.Xml.XmlDocument.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
@@ -1839,7 +1989,9 @@
           "System.Xml.XmlDocument": "4.0.1"
         },
         "compile": {
-          "ref/netstandard1.3/_._": {}
+          "ref/netstandard1.3/_._": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
@@ -1859,7 +2011,9 @@
           "System.Xml.ReaderWriter": "4.0.11"
         },
         "compile": {
-          "ref/netstandard1.3/System.Xml.XPath.dll": {}
+          "ref/netstandard1.3/System.Xml.XPath.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.dll": {}
@@ -1880,7 +2034,9 @@
           "System.Xml.XmlDocument": "4.0.1"
         },
         "compile": {
-          "ref/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
+          "ref/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
@@ -1897,10 +2053,14 @@
       "xunit.abstractions/2.0.2": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/xunit.abstractions.dll": {}
+          "lib/netstandard2.0/xunit.abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/xunit.abstractions.dll": {}
+          "lib/netstandard2.0/xunit.abstractions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "xunit.analyzers/0.10.0": {
@@ -1909,10 +2069,14 @@
       "xunit.assert/2.4.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/xunit.assert.dll": {}
+          "lib/netstandard2.0/xunit.assert.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/xunit.assert.dll": {}
+          "lib/netstandard2.0/xunit.assert.dll": {
+            "related": ".xml"
+          }
         }
       },
       "xunit.core/2.4.0": {
@@ -1936,10 +2100,14 @@
           "xunit.abstractions": "2.0.2"
         },
         "compile": {
-          "lib/netstandard2.0/xunit.core.dll": {}
+          "lib/netstandard2.0/xunit.core.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/xunit.core.dll": {}
+          "lib/netstandard2.0/xunit.core.dll": {
+            "related": ".xml"
+          }
         }
       },
       "xunit.extensibility.execution/2.4.0": {
@@ -1948,10 +2116,14 @@
           "xunit.extensibility.core": "[2.4.0]"
         },
         "compile": {
-          "lib/netstandard2.0/xunit.execution.dotnet.dll": {}
+          "lib/netstandard2.0/xunit.execution.dotnet.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/xunit.execution.dotnet.dll": {}
+          "lib/netstandard2.0/xunit.execution.dotnet.dll": {
+            "related": ".xml"
+          }
         }
       },
       "xunit.runner.visualstudio/2.4.0": {
@@ -1981,6 +2153,16 @@
         },
         "runtime": {
           "bin/placeholder/BinarySearch.dll": {}
+        }
+      },
+      "ClimbingStairs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ClimbingStairs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClimbingStairs.dll": {}
         }
       },
       "ContainerWithMostWater/1.0.0": {
@@ -2013,6 +2195,16 @@
           "bin/placeholder/HouseRobber.dll": {}
         }
       },
+      "ImplementQueueUsingStacks/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ImplementQueueUsingStacks.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ImplementQueueUsingStacks.dll": {}
+        }
+      },
       "InvertBinaryTree/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2021,6 +2213,26 @@
         },
         "runtime": {
           "bin/placeholder/InvertBinaryTree.dll": {}
+        }
+      },
+      "LongestPalindrome/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LongestPalindrome.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LongestPalindrome.dll": {}
+        }
+      },
+      "LowestCommonAnsestorOfBinarySearchTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LowestCommonAnsestorOfBinarySearchTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LowestCommonAnsestorOfBinarySearchTree.dll": {}
         }
       },
       "MaximumSubArray/1.0.0": {
@@ -2053,6 +2265,16 @@
           "bin/placeholder/MergeTwoSortedList.dll": {}
         }
       },
+      "MinimumSizeSubarraySum/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MinimumSizeSubarraySum.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinimumSizeSubarraySum.dll": {}
+        }
+      },
       "NumberOfIslands/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2061,6 +2283,26 @@
         },
         "runtime": {
           "bin/placeholder/NumberOfIslands.dll": {}
+        }
+      },
+      "RansomNote/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RansomNote.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RansomNote.dll": {}
+        }
+      },
+      "ReverseLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ReverseLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReverseLinkedList.dll": {}
         }
       },
       "TwoSum/1.0.0": {
@@ -6744,6 +6986,11 @@
       "path": "../BinarySearch/BinarySearch.csproj",
       "msbuildProject": "../BinarySearch/BinarySearch.csproj"
     },
+    "ClimbingStairs/1.0.0": {
+      "type": "project",
+      "path": "../ClimbingStairs/ClimbingStairs.csproj",
+      "msbuildProject": "../ClimbingStairs/ClimbingStairs.csproj"
+    },
     "ContainerWithMostWater/1.0.0": {
       "type": "project",
       "path": "../ContainerWithMostWater/ContainerWithMostWater.csproj",
@@ -6759,10 +7006,25 @@
       "path": "../HouseRobber/HouseRobber.csproj",
       "msbuildProject": "../HouseRobber/HouseRobber.csproj"
     },
+    "ImplementQueueUsingStacks/1.0.0": {
+      "type": "project",
+      "path": "../ImplementQueueUsingStacks/ImplementQueueUsingStacks.csproj",
+      "msbuildProject": "../ImplementQueueUsingStacks/ImplementQueueUsingStacks.csproj"
+    },
     "InvertBinaryTree/1.0.0": {
       "type": "project",
       "path": "../InvertBinaryTree/InvertBinaryTree.csproj",
       "msbuildProject": "../InvertBinaryTree/InvertBinaryTree.csproj"
+    },
+    "LongestPalindrome/1.0.0": {
+      "type": "project",
+      "path": "../LongestPalindrome/LongestPalindrome.csproj",
+      "msbuildProject": "../LongestPalindrome/LongestPalindrome.csproj"
+    },
+    "LowestCommonAnsestorOfBinarySearchTree/1.0.0": {
+      "type": "project",
+      "path": "../LowestCommonAnsestorOfBinarySearchTree/LowestCommonAnsestorOfBinarySearchTree.csproj",
+      "msbuildProject": "../LowestCommonAnsestorOfBinarySearchTree/LowestCommonAnsestorOfBinarySearchTree.csproj"
     },
     "MaximumSubArray/1.0.0": {
       "type": "project",
@@ -6779,10 +7041,25 @@
       "path": "../MergeTwoSortedList/MergeTwoSortedList.csproj",
       "msbuildProject": "../MergeTwoSortedList/MergeTwoSortedList.csproj"
     },
+    "MinimumSizeSubarraySum/1.0.0": {
+      "type": "project",
+      "path": "../MinimumSizeSubarraySum/MinimumSizeSubarraySum.csproj",
+      "msbuildProject": "../MinimumSizeSubarraySum/MinimumSizeSubarraySum.csproj"
+    },
     "NumberOfIslands/1.0.0": {
       "type": "project",
       "path": "../Number of Islands/NumberOfIslands.csproj",
       "msbuildProject": "../Number of Islands/NumberOfIslands.csproj"
+    },
+    "RansomNote/1.0.0": {
+      "type": "project",
+      "path": "../RansomNote/RansomNote.csproj",
+      "msbuildProject": "../RansomNote/RansomNote.csproj"
+    },
+    "ReverseLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../ReverseLinkedList/ReverseLinkedList.csproj",
+      "msbuildProject": "../ReverseLinkedList/ReverseLinkedList.csproj"
     },
     "TwoSum/1.0.0": {
       "type": "project",
@@ -6819,15 +7096,22 @@
     ".NETCoreApp,Version=v3.1": [
       "BestTimeToBuyAndSellStock >= 1.0.0",
       "BinarySearch >= 1.0.0",
+      "ClimbingStairs >= 1.0.0",
       "ContainerWithMostWater >= 1.0.0",
       "FloodFill >= 1.0.0",
       "HouseRobber >= 1.0.0",
+      "ImplementQueueUsingStacks >= 1.0.0",
       "InvertBinaryTree >= 1.0.0",
+      "LongestPalindrome >= 1.0.0",
+      "LowestCommonAnsestorOfBinarySearchTree >= 1.0.0",
       "MaximumSubArray >= 1.0.0",
       "MedianOfTwoSortedArrays >= 1.0.0",
       "MergeTwoSortedList >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",
+      "MinimumSizeSubarraySum >= 1.0.0",
       "NumberOfIslands >= 1.0.0",
+      "RansomNote >= 1.0.0",
+      "ReverseLinkedList >= 1.0.0",
       "TwoSum >= 1.0.0",
       "UniquePaths >= 1.0.0",
       "ValidAnagram >= 1.0.0",
@@ -6865,16 +7149,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ClimbingStairs\\ClimbingStairs.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ClimbingStairs\\ClimbingStairs.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ContainerWithMostWater\\ContainerWithMostWater.csproj"
@@ -6885,8 +7174,17 @@
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\HouseRobber\\HouseRobber.csproj"
             },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\LongestPalindrome\\LongestPalindrome.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\LongestPalindrome\\LongestPalindrome.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\LowestCommonAnsestorOfBinarySearchTree\\LowestCommonAnsestorOfBinarySearchTree.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\LowestCommonAnsestorOfBinarySearchTree\\LowestCommonAnsestorOfBinarySearchTree.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj"
@@ -6897,8 +7195,17 @@
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj"
             },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MinimumSizeSubarraySum\\MinimumSizeSubarraySum.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MinimumSizeSubarraySum\\MinimumSizeSubarraySum.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\RansomNote\\RansomNote.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\RansomNote\\RansomNote.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ReverseLinkedList\\ReverseLinkedList.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ReverseLinkedList\\ReverseLinkedList.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj"
@@ -6929,6 +7236,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -6953,16 +7261,23 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

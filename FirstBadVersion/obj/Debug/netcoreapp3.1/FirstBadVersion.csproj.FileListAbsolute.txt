@@ -1,0 +1,12 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\bin\Debug\netcoreapp3.1\FirstBadVersion.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\bin\Debug\netcoreapp3.1\FirstBadVersion.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\bin\Debug\netcoreapp3.1\FirstBadVersion.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\bin\Debug\netcoreapp3.1\FirstBadVersion.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\bin\Debug\netcoreapp3.1\FirstBadVersion.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\bin\Debug\netcoreapp3.1\FirstBadVersion.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\FirstBadVersion\obj\Debug\netcoreapp3.1\FirstBadVersion.genruntimeconfig.cache

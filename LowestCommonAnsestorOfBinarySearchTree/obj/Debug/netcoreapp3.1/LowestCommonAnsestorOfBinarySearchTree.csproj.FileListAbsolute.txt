@@ -1,0 +1,14 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\bin\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\bin\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\bin\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\bin\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\bin\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\bin\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LowestCommonAnsestorOfBinarySearchTree\obj\Debug\netcoreapp3.1\LowestCommonAnsestorOfBinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig

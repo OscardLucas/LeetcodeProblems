@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JJw0G3XnOicnolQeTo6/4gHwXtvXb0FN3vNi69sls6h0jubNXrQR1W3DzF919pmCRE/KFmH9itf6AVTrLkr/bA==",
+  "dgSpecHash": "wuWx1AfkNjKD+OtQBjw8mrKz1mRcyVh6QSwH33d00IDqydCCch3HqUecSufFvOQhsB2l0Tqvt050ABOC18kPLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FloodFill\\FloodFill.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

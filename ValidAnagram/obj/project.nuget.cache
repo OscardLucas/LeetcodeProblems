@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mwKhKUy18tcmDe4BXY36UNFshSJuFcs7KP6g0dQI3XlSrOXGsEYV5W1g9xhbqnrMlvTBXFT/HByS3UQa9qy3/w==",
+  "dgSpecHash": "ctPjcXJkoLvPR9lOsT5N5Exjc/zYtWwNEoBD825ZzAk2irYNK6NSwEGaYko83O3ydQ+naSYHJfwnkCe4iY+sWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidAnagram\\ValidAnagram.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

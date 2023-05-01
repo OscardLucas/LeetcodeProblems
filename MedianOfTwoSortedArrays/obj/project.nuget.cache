@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VMAsCXHkHbCjTx7d1QxW5Z7cd/+mIJJYYDt6oIEPh+lD6y5KDQJRLlShwkZP1WIsUWqfOf42mE6+j2z0qXr7jA==",
+  "dgSpecHash": "6UgdtFFGM+BT10Cu1aLx5ugDKtTkh/0EbJXS//mGNfIPMrLt7uH6tMtKzuSDvlOjRnqLjIVDpZjaenwZMBUtWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MedianOfTwoSortedArrays\\MedianOfTwoSortedArrays.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

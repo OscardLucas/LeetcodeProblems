@@ -4,10 +4,11 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\bin\Debug\ne
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.runtimeconfig.dev.json
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\bin\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
-C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csprojAssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csproj.CoreCompileInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.AssemblyInfoInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csproj.CoreCompileInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig

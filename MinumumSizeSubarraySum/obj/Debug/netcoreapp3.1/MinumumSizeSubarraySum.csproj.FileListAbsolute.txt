@@ -1,0 +1,5 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\MinumumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinumumSizeSubarraySum.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MinumumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinumumSizeSubarraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\MinumumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinumumSizeSubarraySum.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MinumumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinumumSizeSubarraySum.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\MinumumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinumumSizeSubarraySum.csproj.CoreCompileInputs.cache

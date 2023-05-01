@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "97EbzhE34nBtGDGMPilBUdS7q6sRrs2X4IpLg0Gv5fz2bhuXbV/KP6TaATRlT5bCRDBeQNCrYlAPnMDQXx2Wkg==",
+  "dgSpecHash": "UPOKaGXyJ34gyvcfP0vWM1ANmYpWFVPvzusuZu2ZY67/1BkMYuX1piKydPsHRT5vatdpgudSLDNG0CeSkUUQCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\TwoSum\\TwoSum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
