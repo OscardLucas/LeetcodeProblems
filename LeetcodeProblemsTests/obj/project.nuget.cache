@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ob/eE+ROCgyLlas+4+FA1fcuZIG827IFHlqLZbYyK+Sl6VvpwRC4dIH2nCciiEHkuppq52ZdHqRscinFAuWtgw==",
+  "dgSpecHash": "odAjut8uVw4qYy2QrLKLlPAAJDOLyn0yDl+m/sQs1+XZWlFmRqINUzWgtA/3wWgvxqWIawUos7rzhpZv5NLn4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\LeetcodeProblemsTests\\LeetcodeProblemsTests.csproj",
   "expectedPackageFiles": [
@@ -102,7 +102,8 @@
     "C:\\Users\\oskr_\\.nuget\\packages\\xunit.core\\2.4.0\\xunit.core.2.4.0.nupkg.sha512",
     "C:\\Users\\oskr_\\.nuget\\packages\\xunit.extensibility.core\\2.4.0\\xunit.extensibility.core.2.4.0.nupkg.sha512",
     "C:\\Users\\oskr_\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "C:\\Users\\oskr_\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    "C:\\Users\\oskr_\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

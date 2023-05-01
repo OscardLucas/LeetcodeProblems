@@ -1,0 +1,14 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\bin\Debug\netcoreapp3.1\LongestPalindrome.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\bin\Debug\netcoreapp3.1\LongestPalindrome.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\bin\Debug\netcoreapp3.1\LongestPalindrome.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\bin\Debug\netcoreapp3.1\LongestPalindrome.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\bin\Debug\netcoreapp3.1\LongestPalindrome.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\bin\Debug\netcoreapp3.1\LongestPalindrome.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\LongestPalindrome\obj\Debug\netcoreapp3.1\LongestPalindrome.GeneratedMSBuildEditorConfig.editorconfig

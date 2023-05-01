@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IQuxaAot9j2a8j/T9T96pTzUXM1sULPE3RbhaMvKSEFGvM+9VihWGZTs1BETyWD/DZR7VInyTmestWkAeJzSNQ==",
+  "dgSpecHash": "r8fipO3kI9fkQDrd06Q997N0SNnsK3jKzJlotK0675gB0k8+GZ2CnrhHIZEhjqpy+XmMmt/aTscZ6pTK+kwukA==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MergeTwoSortedList\\MergeTwoSortedList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

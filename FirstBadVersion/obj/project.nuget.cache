@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqQGQmIMESsR5xGsvBQPdZMHG3mMhuUYDLWYCR4N5jxXZly7IYd6I5jueKNqAOp07kKMQ8UtNQ9A00gqCtVmmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\FirstBadVersion\\FirstBadVersion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

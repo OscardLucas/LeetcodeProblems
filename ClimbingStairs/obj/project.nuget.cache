@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUJHgn/C6dOrbyoyd8S943fRlF+xx9LwyGdX7T7t4BoDrtNB2XCgiGd13skGCJXwWbV8I6cPL+iuAF/y1v1MTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ClimbingStairs\\ClimbingStairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

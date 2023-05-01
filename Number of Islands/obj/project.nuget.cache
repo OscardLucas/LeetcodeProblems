@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gc5jAlfYAhWoP9VWRVL3BuKE/YH73j4JA+r57OePhSidOszmqf1ZjBIl86SGHWJ42VCB4LzSeocCbjteTo+xHA==",
+  "dgSpecHash": "/F7Itcc0o5fRWpM+Mkdk5jTClHXosGsD1SM0DvH0rDs/ss5NIfYt8WidN5+7tkxOdLWbg1ubSE/dyIpJ8EdpsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Number of Islands\\NumberOfIslands.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

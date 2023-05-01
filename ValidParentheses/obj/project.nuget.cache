@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "je9FLkrPDHbQHFspH8RSMBxtuj2N7MqX94l6x03LDofP5qXrn1O9Y71D8GNcoGidWGB8sGJSrY4Ykcv4240rWA==",
+  "dgSpecHash": "+ETV09LqVcCRuKVDtHjxMxAQAWdKdeMkQhGsjBLFc8ptoxXNruOMBjOFIPUAkMlTKQbS0hR+/uUARYw/rkLnmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidParentheses\\ValidParentheses.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

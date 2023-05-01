@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnyxScn9YVca5fskRelSrb6eFGCGDLDfumbQ3TfajInWFvuFUf6znHHLGHuCUZ8qZylIKwX9dbTqDgeTHv5h0g==",
+  "dgSpecHash": "nHd2ZzX4YFH9Fu2ASm7a424iZDW6ZqcbSls71I0h9ZuwQ02I9+A4GEJCBOdEvGrHysyOguQEqlCe9Xmh9yt8XQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\WordBreak\\WordBreak.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

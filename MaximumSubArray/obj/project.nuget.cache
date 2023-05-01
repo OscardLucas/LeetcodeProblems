@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "p2xt3W7AmRU6T+qVkTNFNbZeYYw/9e6eZTEv2HQPh8yX91Du1aIYCQKoGjSyZR8mM2ZLN9Hl7J6palw6wFsIeg==",
+  "dgSpecHash": "L+Y3aKpZeB7NXMJJX5aXRRyvM+2bd8Jnh52VlSjiH2Qf/cggMnW2Bb6O641AG3Bp3jH10pgCA347uXKmvBXVAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\MaximumSubArray\\MaximumSubArray.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

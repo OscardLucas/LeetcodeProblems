@@ -4,10 +4,11 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\bin\Debug\netcoreapp3.1\TwoS
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.runtimeconfig.dev.json
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\bin\Debug\netcoreapp3.1\TwoSum.pdb
-C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csprojAssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfoInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.CoreCompileInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\TwoSum\obj\Debug\netcoreapp3.1\TwoSum.GeneratedMSBuildEditorConfig.editorconfig

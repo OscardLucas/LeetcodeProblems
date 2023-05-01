@@ -4,9 +4,11 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\bin\Debug\netcor
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\bin\Debug\netcoreapp3.1\MergeTwoSortedList.runtimeconfig.dev.json
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\bin\Debug\netcoreapp3.1\MergeTwoSortedList.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\bin\Debug\netcoreapp3.1\MergeTwoSortedList.pdb
-C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.csproj.CoreCompileInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.AssemblyInfoInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.csproj.CoreCompileInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\MergeTwoSortedList\obj\Debug\netcoreapp3.1\MergeTwoSortedList.GeneratedMSBuildEditorConfig.editorconfig

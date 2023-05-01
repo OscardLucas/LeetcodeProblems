@@ -1,0 +1,14 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\bin\Debug\netcoreapp3.1\ImplementQueueUsingStacks.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\bin\Debug\netcoreapp3.1\ImplementQueueUsingStacks.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\bin\Debug\netcoreapp3.1\ImplementQueueUsingStacks.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\bin\Debug\netcoreapp3.1\ImplementQueueUsingStacks.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\bin\Debug\netcoreapp3.1\ImplementQueueUsingStacks.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\bin\Debug\netcoreapp3.1\ImplementQueueUsingStacks.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.GeneratedMSBuildEditorConfig.editorconfig

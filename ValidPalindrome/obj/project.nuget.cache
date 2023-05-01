@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uHTzm4jlscO51IBbTYYBppaWR8i10gKUJDw6TnTCYnNlb0VtrD/WPxlAtu+Y4TVEaKVbXOaLVivK/xK/QpGWrw==",
+  "dgSpecHash": "sFmEkpZxBv89zL+U2/KDwXpTqUYZzkVDLeEn9stDX7iSQ9N7tqW7PvB7B+HjgsklzH633aHeSwK3do5hAgm+OQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ValidPalindrome\\ValidPalindrome.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
