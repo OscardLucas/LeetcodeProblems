@@ -1,0 +1,14 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\bin\Debug\netcoreapp3.1\DoubleLinkedList.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.csproj.AssemblyReference.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\DoubleLinkedList\obj\Debug\netcoreapp3.1\DoubleLinkedList.genruntimeconfig.cache

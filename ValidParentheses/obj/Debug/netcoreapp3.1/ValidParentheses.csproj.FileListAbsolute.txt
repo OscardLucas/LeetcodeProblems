@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcorea
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ValidParentheses\obj\Debug\netcoreapp3.1\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig

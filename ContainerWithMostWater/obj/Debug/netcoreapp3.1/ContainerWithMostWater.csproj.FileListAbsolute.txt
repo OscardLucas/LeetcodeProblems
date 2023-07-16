@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\ne
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\ContainerWithMostWater\obj\Debug\netcoreapp3.1\ContainerWithMostWater.csprojAssemblyReference.cache

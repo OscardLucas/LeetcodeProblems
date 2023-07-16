@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\MinimumSizeSubarraySum\obj\Debug\ne
 C:\Users\oskr_\source\repos\LeetcodeProblems\MinimumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinimumSizeSubarraySum.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\MinimumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinimumSizeSubarraySum.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\MinimumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinimumSizeSubarraySum.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\MinimumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinimumSizeSubarraySum.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\MinimumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinimumSizeSubarraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\MinimumSizeSubarraySum\obj\Debug\netcoreapp3.1\MinimumSizeSubarraySum.csprojAssemblyReference.cache

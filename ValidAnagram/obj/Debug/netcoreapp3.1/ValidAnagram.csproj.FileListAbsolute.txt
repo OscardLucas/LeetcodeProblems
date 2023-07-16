@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ValidAnagram\obj\Debug\netcoreapp3.1\ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlx5TDxOM0Nvlun5iS8+mKLuhRenzfAbU/jE7zeEuGnn0kkvkiAPKfFtg5RyaYROX82v0j1nKM8IEzdfibbOyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearchTree\\BinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\oskr_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

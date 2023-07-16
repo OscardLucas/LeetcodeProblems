@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ClimbingStairs\obj\Debug\netcoreapp
 C:\Users\oskr_\source\repos\LeetcodeProblems\ClimbingStairs\obj\Debug\netcoreapp3.1\ClimbingStairs.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ClimbingStairs\obj\Debug\netcoreapp3.1\ClimbingStairs.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ClimbingStairs\obj\Debug\netcoreapp3.1\ClimbingStairs.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ClimbingStairs\obj\Debug\netcoreapp3.1\ClimbingStairs.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ClimbingStairs\obj\Debug\netcoreapp3.1\ClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\ClimbingStairs\obj\Debug\netcoreapp3.1\ClimbingStairs.csprojAssemblyReference.cache

@@ -2155,6 +2155,16 @@
           "bin/placeholder/BinarySearch.dll": {}
         }
       },
+      "BinarySearchTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/BinarySearchTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearchTree.dll": {}
+        }
+      },
       "ClimbingStairs/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2203,6 +2213,16 @@
         },
         "runtime": {
           "bin/placeholder/ImplementQueueUsingStacks.dll": {}
+        }
+      },
+      "InOrderTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/InOrderTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InOrderTree.dll": {}
         }
       },
       "InvertBinaryTree/1.0.0": {
@@ -2293,6 +2313,26 @@
         },
         "runtime": {
           "bin/placeholder/PascalsTriangle2.dll": {}
+        }
+      },
+      "PostOrderTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PostOrderTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostOrderTree.dll": {}
+        }
+      },
+      "PreOrderTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PreOrderTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PreOrderTree.dll": {}
         }
       },
       "RansomNote/1.0.0": {
@@ -7006,6 +7046,11 @@
       "path": "../BinarySearch/BinarySearch.csproj",
       "msbuildProject": "../BinarySearch/BinarySearch.csproj"
     },
+    "BinarySearchTree/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearchTree/BinarySearchTree.csproj",
+      "msbuildProject": "../BinarySearchTree/BinarySearchTree.csproj"
+    },
     "ClimbingStairs/1.0.0": {
       "type": "project",
       "path": "../ClimbingStairs/ClimbingStairs.csproj",
@@ -7030,6 +7075,11 @@
       "type": "project",
       "path": "../ImplementQueueUsingStacks/ImplementQueueUsingStacks.csproj",
       "msbuildProject": "../ImplementQueueUsingStacks/ImplementQueueUsingStacks.csproj"
+    },
+    "InOrderTree/1.0.0": {
+      "type": "project",
+      "path": "../InOrderTree/InOrderTree.csproj",
+      "msbuildProject": "../InOrderTree/InOrderTree.csproj"
     },
     "InvertBinaryTree/1.0.0": {
       "type": "project",
@@ -7075,6 +7125,16 @@
       "type": "project",
       "path": "../Pascals Triangle 2/PascalsTriangle2.csproj",
       "msbuildProject": "../Pascals Triangle 2/PascalsTriangle2.csproj"
+    },
+    "PostOrderTree/1.0.0": {
+      "type": "project",
+      "path": "../PostOrderTree/PostOrderTree.csproj",
+      "msbuildProject": "../PostOrderTree/PostOrderTree.csproj"
+    },
+    "PreOrderTree/1.0.0": {
+      "type": "project",
+      "path": "../PreOrderTree/PreOrderTree.csproj",
+      "msbuildProject": "../PreOrderTree/PreOrderTree.csproj"
     },
     "RansomNote/1.0.0": {
       "type": "project",
@@ -7126,11 +7186,13 @@
     ".NETCoreApp,Version=v3.1": [
       "BestTimeToBuyAndSellStock >= 1.0.0",
       "BinarySearch >= 1.0.0",
+      "BinarySearchTree >= 1.0.0",
       "ClimbingStairs >= 1.0.0",
       "ContainerWithMostWater >= 1.0.0",
       "FloodFill >= 1.0.0",
       "HouseRobber >= 1.0.0",
       "ImplementQueueUsingStacks >= 1.0.0",
+      "InOrderTree >= 1.0.0",
       "InvertBinaryTree >= 1.0.0",
       "LongestPalindrome >= 1.0.0",
       "LowestCommonAnsestorOfBinarySearchTree >= 1.0.0",
@@ -7141,6 +7203,8 @@
       "MinimumSizeSubarraySum >= 1.0.0",
       "NumberOfIslands >= 1.0.0",
       "PascalsTriangle2 >= 1.0.0",
+      "PostOrderTree >= 1.0.0",
+      "PreOrderTree >= 1.0.0",
       "RansomNote >= 1.0.0",
       "ReverseLinkedList >= 1.0.0",
       "RotateArray >= 1.0.0",
@@ -7191,6 +7255,9 @@
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BestTimeToBuyAndSellStock\\BestTimeToBuyAndSellStock.csproj"
             },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearchTree\\BinarySearchTree.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearchTree\\BinarySearchTree.csproj"
+            },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\BinarySearch\\BinarySearch.csproj"
             },
@@ -7208,6 +7275,9 @@
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InOrderTree\\InOrderTree.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InOrderTree\\InOrderTree.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\InvertBinaryTree\\InvertBinaryTree.csproj"
@@ -7235,6 +7305,12 @@
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Pascals Triangle 2\\PascalsTriangle2.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\Pascals Triangle 2\\PascalsTriangle2.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\PostOrderTree\\PostOrderTree.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\PostOrderTree\\PostOrderTree.csproj"
+            },
+            "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\PreOrderTree\\PreOrderTree.csproj": {
+              "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\PreOrderTree\\PreOrderTree.csproj"
             },
             "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\RansomNote\\RansomNote.csproj": {
               "projectPath": "C:\\Users\\oskr_\\source\\repos\\LeetcodeProblems\\RansomNote\\RansomNote.csproj"

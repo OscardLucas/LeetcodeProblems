@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreap
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ValidPalindrome\obj\Debug\netcoreapp3.1\ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig

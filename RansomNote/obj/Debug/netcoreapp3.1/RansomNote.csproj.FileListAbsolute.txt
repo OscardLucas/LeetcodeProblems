@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\RansomNote\obj\Debug\netcoreapp3.1\
 C:\Users\oskr_\source\repos\LeetcodeProblems\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\RansomNote\obj\Debug\netcoreapp3.1\RansomNote.GeneratedMSBuildEditorConfig.editorconfig

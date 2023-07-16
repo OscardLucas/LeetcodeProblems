@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\WordBreak\obj\Debug\netcoreapp3.1\W
 C:\Users\oskr_\source\repos\LeetcodeProblems\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\WordBreak\obj\Debug\netcoreapp3.1\WordBreak.csprojAssemblyReference.cache

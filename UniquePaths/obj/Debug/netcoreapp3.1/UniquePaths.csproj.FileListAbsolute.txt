@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\UniquePaths\obj\Debug\netcoreapp3.1
 C:\Users\oskr_\source\repos\LeetcodeProblems\UniquePaths\obj\Debug\netcoreapp3.1\UniquePaths.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\UniquePaths\obj\Debug\netcoreapp3.1\UniquePaths.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\UniquePaths\obj\Debug\netcoreapp3.1\UniquePaths.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\UniquePaths\obj\Debug\netcoreapp3.1\UniquePaths.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\UniquePaths\obj\Debug\netcoreapp3.1\UniquePaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\UniquePaths\obj\Debug\netcoreapp3.1\UniquePaths.csprojAssemblyReference.cache

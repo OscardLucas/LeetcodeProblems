@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\n
 C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\MedianOfTwoSortedArrays\obj\Debug\netcoreapp3.1\MedianOfTwoSortedArrays.csprojAssemblyReference.cache
