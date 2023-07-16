@@ -15,12 +15,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj" />
+    <ProjectReference Include="..\BinarySearchTree\BinarySearchTree.csproj" />
     <ProjectReference Include="..\BinarySearch\BinarySearch.csproj" />
     <ProjectReference Include="..\ClimbingStairs\ClimbingStairs.csproj" />
     <ProjectReference Include="..\ContainerWithMostWater\ContainerWithMostWater.csproj" />
     <ProjectReference Include="..\FloodFill\FloodFill.csproj" />
     <ProjectReference Include="..\HouseRobber\HouseRobber.csproj" />
     <ProjectReference Include="..\ImplementQueueUsingStacks\ImplementQueueUsingStacks.csproj" />
+    <ProjectReference Include="..\InOrderTree\InOrderTree.csproj" />
     <ProjectReference Include="..\InvertBinaryTree\InvertBinaryTree.csproj" />
     <ProjectReference Include="..\LongestPalindrome\LongestPalindrome.csproj" />
     <ProjectReference Include="..\LowestCommonAnsestorOfBinarySearchTree\LowestCommonAnsestorOfBinarySearchTree.csproj" />
@@ -30,6 +32,8 @@
     <ProjectReference Include="..\MinimumSizeSubarraySum\MinimumSizeSubarraySum.csproj" />
     <ProjectReference Include="..\Number of Islands\NumberOfIslands.csproj" />
     <ProjectReference Include="..\Pascals Triangle 2\PascalsTriangle2.csproj" />
+    <ProjectReference Include="..\PostOrderTree\PostOrderTree.csproj" />
+    <ProjectReference Include="..\PreOrderTree\PreOrderTree.csproj" />
     <ProjectReference Include="..\RansomNote\RansomNote.csproj" />
     <ProjectReference Include="..\ReverseLinkedList\ReverseLinkedList.csproj" />
     <ProjectReference Include="..\RotateArray\RotateArray.csproj" />

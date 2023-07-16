@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcorea
 C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\InvertBinaryTree\obj\Debug\netcoreapp3.1\InvertBinaryTree.GeneratedMSBuildEditorConfig.editorconfig

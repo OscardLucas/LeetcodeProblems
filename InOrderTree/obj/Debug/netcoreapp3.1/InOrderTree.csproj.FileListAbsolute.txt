@@ -1,0 +1,12 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\bin\Debug\netcoreapp3.1\InOrderTree.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\bin\Debug\netcoreapp3.1\InOrderTree.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\bin\Debug\netcoreapp3.1\InOrderTree.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\bin\Debug\netcoreapp3.1\InOrderTree.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\bin\Debug\netcoreapp3.1\InOrderTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\bin\Debug\netcoreapp3.1\InOrderTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\obj\Debug\netcoreapp3.1\InOrderTree.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\obj\Debug\netcoreapp3.1\InOrderTree.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\obj\Debug\netcoreapp3.1\InOrderTree.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\obj\Debug\netcoreapp3.1\InOrderTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\obj\Debug\netcoreapp3.1\InOrderTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\InOrderTree\obj\Debug\netcoreapp3.1\InOrderTree.genruntimeconfig.cache

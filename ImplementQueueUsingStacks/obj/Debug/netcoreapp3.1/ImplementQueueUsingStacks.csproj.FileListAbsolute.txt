@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug
 C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ImplementQueueUsingStacks\obj\Debug\netcoreapp3.1\ImplementQueueUsingStacks.GeneratedMSBuildEditorConfig.editorconfig

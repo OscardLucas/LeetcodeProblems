@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\ReverseLinkedList\obj\Debug\netcore
 C:\Users\oskr_\source\repos\LeetcodeProblems\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.csprojAssemblyReference.cache

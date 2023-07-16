@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\BestTimeToBuyAndSellStock\obj\Debug
 C:\Users\oskr_\source\repos\LeetcodeProblems\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\BestTimeToBuyAndSellStock\obj\Debug\netcoreapp3.1\BestTimeToBuyAndSellStock.GeneratedMSBuildEditorConfig.editorconfig

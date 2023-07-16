@@ -15,6 +15,7 @@
           "FloodFill": "1.0.0",
           "HouseRobber": "1.0.0",
           "ImplementQueueUsingStacks": "1.0.0",
+          "InOrderTree": "1.0.0",
           "InvertBinaryTree": "1.0.0",
           "LongestPalindrome": "1.0.0",
           "LowestCommonAnsestorOfBinarySearchTree": "1.0.0",
@@ -25,6 +26,8 @@
           "MinimumSizeSubarraySum": "1.0.0",
           "NumberOfIslands": "1.0.0",
           "PascalsTriangle2": "1.0.0",
+          "PostOrderTree": "1.0.0",
+          "PreOrderTree": "1.0.0",
           "RansomNote": "1.0.0",
           "ReverseLinkedList": "1.0.0",
           "RotateArray": "1.0.0",
@@ -1402,6 +1405,11 @@
           "ImplementQueueUsingStacks.dll": {}
         }
       },
+      "InOrderTree/1.0.0": {
+        "runtime": {
+          "InOrderTree.dll": {}
+        }
+      },
       "InvertBinaryTree/1.0.0": {
         "runtime": {
           "InvertBinaryTree.dll": {}
@@ -1445,6 +1453,16 @@
       "PascalsTriangle2/1.0.0": {
         "runtime": {
           "PascalsTriangle2.dll": {}
+        }
+      },
+      "PostOrderTree/1.0.0": {
+        "runtime": {
+          "PostOrderTree.dll": {}
+        }
+      },
+      "PreOrderTree/1.0.0": {
+        "runtime": {
+          "PreOrderTree.dll": {}
         }
       },
       "RansomNote/1.0.0": {
@@ -2228,6 +2246,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "InOrderTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "InvertBinaryTree/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -2269,6 +2292,16 @@
       "sha512": ""
     },
     "PascalsTriangle2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostOrderTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PreOrderTree/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

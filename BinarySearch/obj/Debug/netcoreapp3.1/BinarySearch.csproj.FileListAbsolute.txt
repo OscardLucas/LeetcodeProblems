@@ -10,5 +10,3 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\BinarySearch\obj\Debug\netcoreapp3.
 C:\Users\oskr_\source\repos\LeetcodeProblems\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig

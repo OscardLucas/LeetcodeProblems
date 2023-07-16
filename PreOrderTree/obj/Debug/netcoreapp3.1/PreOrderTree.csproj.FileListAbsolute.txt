@@ -1,0 +1,13 @@
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\bin\Debug\netcoreapp3.1\PreOrderTree.exe
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\bin\Debug\netcoreapp3.1\PreOrderTree.deps.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\bin\Debug\netcoreapp3.1\PreOrderTree.runtimeconfig.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\bin\Debug\netcoreapp3.1\PreOrderTree.runtimeconfig.dev.json
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\bin\Debug\netcoreapp3.1\PreOrderTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\bin\Debug\netcoreapp3.1\PreOrderTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\obj\Debug\netcoreapp3.1\PreOrderTree.csproj.CoreCompileInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\obj\Debug\netcoreapp3.1\PreOrderTree.AssemblyInfoInputs.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\obj\Debug\netcoreapp3.1\PreOrderTree.AssemblyInfo.cs
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\obj\Debug\netcoreapp3.1\PreOrderTree.dll
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\obj\Debug\netcoreapp3.1\PreOrderTree.pdb
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\obj\Debug\netcoreapp3.1\PreOrderTree.genruntimeconfig.cache
+C:\Users\oskr_\source\repos\LeetcodeProblems\PreOrderTree\obj\Debug\netcoreapp3.1\PreOrderTree.csprojAssemblyReference.cache

@@ -10,5 +10,4 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\HouseRobber\obj\Debug\netcoreapp3.1
 C:\Users\oskr_\source\repos\LeetcodeProblems\HouseRobber\obj\Debug\netcoreapp3.1\HouseRobber.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\HouseRobber\obj\Debug\netcoreapp3.1\HouseRobber.pdb
 C:\Users\oskr_\source\repos\LeetcodeProblems\HouseRobber\obj\Debug\netcoreapp3.1\HouseRobber.genruntimeconfig.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\HouseRobber\obj\Debug\netcoreapp3.1\HouseRobber.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\HouseRobber\obj\Debug\netcoreapp3.1\HouseRobber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskr_\source\repos\LeetcodeProblems\HouseRobber\obj\Debug\netcoreapp3.1\HouseRobber.csprojAssemblyReference.cache

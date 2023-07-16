@@ -4,8 +4,6 @@ C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\bin\Debug\netcoreapp3.1
 C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.runtimeconfig.dev.json
 C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.dll
 C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\bin\Debug\netcoreapp3.1\RotateArray.pdb
-C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.csproj.AssemblyReference.cache
-C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.AssemblyInfoInputs.cache
 C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.AssemblyInfo.cs
 C:\Users\oskr_\source\repos\LeetcodeProblems\RotateArray\obj\Debug\netcoreapp3.1\RotateArray.csproj.CoreCompileInputs.cache
